@@ -1,0 +1,45 @@
+ 1 threads:        4 nodes; volume =   0.08; megaVolumes/sec =    inf
+inf, 1 threads:        8 nodes; volume =   0.36; megaVolumes/sec =  21.33
+21.3333, 1 threads:       16 nodes; volume =   0.41; megaVolumes/sec =  32.00
+32, 1 threads:       32 nodes; volume =   0.43; megaVolumes/sec =  31.03
+31.0303, 1 threads:       64 nodes; volume =   0.43; megaVolumes/sec =  30.34
+30.3407, 1 threads:      128 nodes; volume =   0.44; megaVolumes/sec =  29.95
+29.9525, 1 threads:      256 nodes; volume =   0.44; megaVolumes/sec =  29.79
+29.7891, 1 threads:      512 nodes; volume =   0.44; megaVolumes/sec =  29.70
+29.7013,
+ 2 threads:        4 nodes; volume =   0.08; megaVolumes/sec =   2.29
+2.28571, 2 threads:        8 nodes; volume =   0.36; megaVolumes/sec =   8.00
+8, 2 threads:       16 nodes; volume =   0.41; megaVolumes/sec =  28.44
+28.4444, 2 threads:       32 nodes; volume =   0.43; megaVolumes/sec =  46.55
+46.5455, 2 threads:       64 nodes; volume =   0.43; megaVolumes/sec =  54.61
+54.6133, 2 threads:      128 nodes; volume =   0.44; megaVolumes/sec =  56.89
+56.8889, 2 threads:      256 nodes; volume =   0.44; megaVolumes/sec =  57.29
+57.2867, 2 threads:      512 nodes; volume =   0.44; megaVolumes/sec =  57.29
+57.2867,
+ 4 threads:        4 nodes; volume =   0.08; megaVolumes/sec =   2.00
+2, 4 threads:        8 nodes; volume =   0.36; megaVolumes/sec =   8.00
+8, 4 threads:       16 nodes; volume =   0.41; megaVolumes/sec =  23.27
+23.2727, 4 threads:       32 nodes; volume =   0.43; megaVolumes/sec =  46.55
+46.5455, 4 threads:       64 nodes; volume =   0.43; megaVolumes/sec =  78.77
+78.7692, 4 threads:      128 nodes; volume =   0.44; megaVolumes/sec =  89.53
+89.5301, 4 threads:      256 nodes; volume =   0.44; megaVolumes/sec =  95.39
+95.3945, 4 threads:      512 nodes; volume =   0.44; megaVolumes/sec =  97.05
+97.0544,
+ 8 threads:        4 nodes; volume =   0.08; megaVolumes/sec =   1.14
+1.14286, 8 threads:        8 nodes; volume =   0.36; megaVolumes/sec =   4.92
+4.92308, 8 threads:       16 nodes; volume =   0.41; megaVolumes/sec =  18.29
+18.2857, 8 threads:       32 nodes; volume =   0.43; megaVolumes/sec =  42.67
+42.6667, 8 threads:       64 nodes; volume =   0.43; megaVolumes/sec =  70.62
+70.6207, 8 threads:      128 nodes; volume =   0.44; megaVolumes/sec =  93.09
+93.0909, 8 threads:      256 nodes; volume =   0.44; megaVolumes/sec = 115.79
+115.788, 8 threads:      512 nodes; volume =   0.44; megaVolumes/sec = 121.81
+121.814,
+16 threads:        4 nodes; volume =   0.08; megaVolumes/sec =   0.84
+0.842105,16 threads:        8 nodes; volume =   0.36; megaVolumes/sec =   3.37
+3.36842,16 threads:       16 nodes; volume =   0.41; megaVolumes/sec =  12.19
+12.1905,16 threads:       32 nodes; volume =   0.43; megaVolumes/sec =  37.93
+37.9259,16 threads:       64 nodes; volume =   0.43; megaVolumes/sec =  63.02
+63.0154,16 threads:      128 nodes; volume =   0.44; megaVolumes/sec =  91.02
+91.0222,16 threads:      256 nodes; volume =   0.44; megaVolumes/sec = 125.07
+125.069,16 threads:      512 nodes; volume =   0.44; megaVolumes/sec = 137.03
+137.033,
